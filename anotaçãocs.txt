@@ -1,0 +1,20 @@
+rua maranhão 479
+
+999189312 angela 
+
+18 19hs
+
+Cooler Zalman Cnps12x 
+
+60448040000122
+
+centralizar radar = cl_radar_always_centered 0 
+diminuir radar = cl_radar_scale 0.39
+mudar tamanho da mira = cl_crosshairzise n
+mudar cor da mira	= cl_crosshaircolor n 
+0 = vermelho
+1 = verde
+2 = amarelo
+3 = azul escuro
+4 = azul claro
+crosshair 0.01
